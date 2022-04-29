@@ -3,7 +3,6 @@ Hi 👋 My name is Murat Ekşi
 
 * 🌍  I'm based in Serdivan, Sakarya, Turkey
 * ✉️  You can contact me at [murateksicom@gmail.com](mailto:murateksicom@gmail.com)
-* 🧠  I'm learning React, Tailwind
 
 ### Skills
 
